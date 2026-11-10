@@ -1,1 +1,2 @@
 # odin-recipes
+This project covers a simple basic website that outines different recipes and by the end of it i expect to have gain practical knowledge of HTML with tags and elements not forgetting lists.
